@@ -1,0 +1,74 @@
+D:\C# Projects Lab\Lab1\Client_Project\bin\Debug\net8.0-windows\Client_Project.exe
+D:\C# Projects Lab\Lab1\Client_Project\bin\Debug\net8.0-windows\Client_Project.deps.json
+D:\C# Projects Lab\Lab1\Client_Project\bin\Debug\net8.0-windows\Client_Project.runtimeconfig.json
+D:\C# Projects Lab\Lab1\Client_Project\bin\Debug\net8.0-windows\Client_Project.dll
+D:\C# Projects Lab\Lab1\Client_Project\bin\Debug\net8.0-windows\Client_Project.pdb
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.csproj.GenerateResource.cache
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.AssemblyInfoInputs.cache
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.AssemblyInfo.cs
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.csproj.CoreCompileInputs.cache
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.dll
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\refint\Client_Project.dll
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.pdb
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.genruntimeconfig.cache
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\ref\Client_Project.dll
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.Home.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.CreateRoom.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.RoomsView.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.WaitingForm.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.GameForm.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.RequestToPlayAgainForm.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.WatchForm.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.WatcherGameForm.resources
+D:\C# Projects Lab\Lab1\Client_Project\obj\Debug\net8.0-windows\Client_Project.Login.resources
+F:\Client_Project\bin\Debug\net8.0-windows\Client_Project.exe
+F:\Client_Project\bin\Debug\net8.0-windows\Client_Project.deps.json
+F:\Client_Project\bin\Debug\net8.0-windows\Client_Project.runtimeconfig.json
+F:\Client_Project\bin\Debug\net8.0-windows\Client_Project.dll
+F:\Client_Project\bin\Debug\net8.0-windows\Client_Project.pdb
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.CreateRoom.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.GameForm.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.Home.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.Login.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.Properties.Resources.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.RequestToPlayAgainForm.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.RoomsView.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.WaitingForm.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.WatcherGameForm.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.WatchForm.resources
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.csproj.GenerateResource.cache
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.AssemblyInfoInputs.cache
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.AssemblyInfo.cs
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.csproj.CoreCompileInputs.cache
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.dll
+F:\Client_Project\obj\Debug\net8.0-windows\refint\Client_Project.dll
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.pdb
+F:\Client_Project\obj\Debug\net8.0-windows\Client_Project.genruntimeconfig.cache
+F:\Client_Project\obj\Debug\net8.0-windows\ref\Client_Project.dll
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\bin\Debug\net8.0-windows\Client_Project.exe
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\bin\Debug\net8.0-windows\Client_Project.deps.json
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\bin\Debug\net8.0-windows\Client_Project.runtimeconfig.json
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\bin\Debug\net8.0-windows\Client_Project.dll
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\bin\Debug\net8.0-windows\Client_Project.pdb
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.CreateRoom.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.GameForm.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.Home.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.Login.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.Properties.Resources.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.RequestToPlayAgainForm.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.RoomsView.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.WaitingForm.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.WatcherGameForm.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.WatchForm.resources
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.csproj.GenerateResource.cache
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.AssemblyInfoInputs.cache
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.AssemblyInfo.cs
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.csproj.CoreCompileInputs.cache
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.dll
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\refint\Client_Project.dll
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.pdb
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\Client_Project.genruntimeconfig.cache
+D:\ITI(PD&BI)\C# .Net\New folder\Client_Project\obj\Debug\net8.0-windows\ref\Client_Project.dll
